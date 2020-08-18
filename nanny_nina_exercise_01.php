@@ -7,6 +7,7 @@ use App\Models\User\UserBookingBlacklist;
 use App\Notifications\Booking\Occasional\OccasionalBookingEmptyInvites;
 use App\Traits\DistanceTrait;
 use App\User;
+
 use Carbon\Carbon;
 use Illuminate\Support\Str;
 
