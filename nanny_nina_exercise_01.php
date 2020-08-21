@@ -10,6 +10,9 @@ use App\User;
 use Carbon\Carbon;
 use Illuminate\Support\Str;
 
+
+
+
 trait OccasionalBookingInviteManagerTrait
 {
     use DistanceTrait;
